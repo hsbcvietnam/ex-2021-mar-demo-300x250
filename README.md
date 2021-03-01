@@ -1,8 +1,8 @@
 # hsbc-template-edm
 
 Link view
-https://mass-template-edm.herokuapp.com/source/index_vn.html
-https://mass-template-edm.herokuapp.com/source/index_en.html
+https://ex-demo-300x250-1.herokuapp.com/source/index_vn.html
+https://ex-demo-300x250-1.herokuapp.com/source/index_en.html
 
 Link download
-https://mass-template-edm.herokuapp.com/download.php
+https://ex-demo-300x250-1.herokuapp.com/download.php
